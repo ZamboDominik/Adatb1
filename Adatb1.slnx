@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Adatb1/Adatb1.csproj" />
   <Project Path="EFCore/EFCore.csproj" />
+  <Project Path="EFCoreRelationships/EFCoreRelationships.csproj" Id="8018303e-dbd3-41cd-84a2-e66d16530fd7" />
 </Solution>
