@@ -3,7 +3,7 @@ namespace Adatb1
 {
     internal class Program
     {
-        const string connString = "Server=localhost;Port=32768;Database=sys;User=root;Password=Teszt123;";
+        const string connString = "Server=localhost;Port=32770;Database=sys;User=root;Password=Teszt123;";
         static void Main(string[] args)
         {
             var connection = new MySqlConnection(connString);
